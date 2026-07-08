@@ -33,3 +33,14 @@ const myFunction = function(){
     console.log("Hello world");
 }
 
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++
+// Stack (Premitive), Heap (Non-Primitive)
+
+let myYoutubename = "MadhabChandraSwain"
+
+let anothername = myYoutubename
+anothername = "chaiaurcode"
+
+console.log(myYoutubename);
+console,log(anothername);
+
